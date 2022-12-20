@@ -2,7 +2,7 @@ This program extracts text from screenshots.
 Improvements can still be made to this code.
 
     How to use it:
-        Download the "Tesseract-OCR" folder link:
+        Download the "Tesseract-OCR" folder on:
             https://drive.google.com/drive/folders/1lDVniifW8cQoKCfncXj322wi1hILP1es?usp=share_link;
         Keep the "Tesseract-OCR" folder in the same location as the "pixie.py" file;
         Run the code;
