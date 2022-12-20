@@ -1,20 +1,21 @@
 """
-Informações sobre o programa:
+Program information:
 
-Este programa extrai textos de capturas de tela.
-Melhorias ainda podem ser feitas neste código.
+This program extracts text from screenshots.
+Improvements can still be made to this code.
 
-Link para baixar o executável, tesseract e o banco de dados com os idiomas português, inglês e espanhol:
+Link to download the executable, tesseract and the database in Portuguese, English and Spanish:
     https://drive.google.com/drive/folders/1lDVniifW8cQoKCfncXj322wi1hILP1es?usp=share_link
 
-OCR - Reconehcimento de Caracter Ótico
-open-cv (pip install opencv-python)
-tesseract (pip install pytesseract)
+OCR - Optical Character Recognition
 
-links úteis:
-    corrigir instalação windows: https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i
-    instalar idioma: https://github.com/tesseract-ocr/tessdata
-    idiomas: print(pytesseract.get_languages())
+-> open-cv:    pip install opencv-python
+-> tesseract:  pip install pytesseract
+
+Useful links:
+    fix windows installation: https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i
+    install new language: https://github.com/tesseract-ocr/tessdata
+    languages: print(pytesseract.get_languages())
 """
 
 # Author(s): Dhytm <alissondin.developer@gmail.com>;
@@ -37,6 +38,9 @@ def pixie():
     """_summary_
 
     How to use it:
+        Download the "Tesseract-OCR" folder link:
+            https://drive.google.com/drive/folders/1lDVniifW8cQoKCfncXj322wi1hILP1es?usp=share_link;
+        Keep the "Tesseract-OCR" folder in the same location as the "pixie.py" file;
         Run the code;
         Enter the language of the text to be extracted;
         With the commands "Win+Shift+S" capture only the area of the screen containing the text for extraction;
