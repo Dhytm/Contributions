@@ -10,5 +10,5 @@ MIT licensees will guarantee my rights to these contributions, however my constr
 - I work with data through Python, for treatment, problem solving, analysis or for Artificial Intelligence;
 - I'm specializing in Machine Learning with Python (I study the mathematical concepts of algorithms, and apply them in Python);
 - Some contributions are from when I was starting to study programming, however over time I will import more significant projects so that all interested parties can enjoy them.
-<p>I have the aforementioned programming skills and knowledge with Python<br />
+<p>I have the aforementioned programming skills and knowledge with Python.<br />
 Therefore, the main folder of my contributions is the "Python" folder, and inside it will be all my public projects (for now).<p />
