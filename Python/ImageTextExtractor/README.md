@@ -1,3 +1,5 @@
+## Simple text extractor from images, developed in Python
+
 This program extracts text from screenshots.
 Improvements can still be made to this code.
 
